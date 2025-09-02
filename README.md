@@ -17,27 +17,24 @@ Generative AI impact of scaling in LLMs.
 3.Run the prompts on the same task.
 
 4.Record outputs and write the report.
-## Prompt
-Generate a pdf for Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
-
+## Prompt:
+generate the report for the generative AI and Large Language model
 
 ## Output
-<img width="580" height="752" alt="Screenshot 2025-08-30 151745" src="https://github.com/user-attachments/assets/513263a1-4bdc-480f-964c-979ab5d1dbb0" />
-<img width="583" height="749" alt="Screenshot 2025-08-30 151753" src="https://github.com/user-attachments/assets/c8028135-3bba-4723-9b0a-c328621fbaeb" />
-<img width="585" height="745" alt="Screenshot 2025-08-30 151855" src="https://github.com/user-attachments/assets/26bbae93-ae6b-43cb-928a-7a167b9ba7f9" />
-<img width="579" height="741" alt="Screenshot 2025-08-30 151901" src="https://github.com/user-attachments/assets/3ef674b0-b918-4e5f-a283-3215dfc722e8" />
-<img width="582" height="743" alt="Screenshot 2025-08-30 151907" src="https://github.com/user-attachments/assets/1f0cf108-f268-42b6-aafd-db9fbc72712c" />
-<img width="580" height="750" alt="Screenshot 2025-08-30 151914" src="https://github.com/user-attachments/assets/00415b70-cb7e-4b11-ad47-eaa92deda211" />
-<img width="583" height="744" alt="Screenshot 2025-08-30 151920" src="https://github.com/user-attachments/assets/4283f211-da10-4aa7-806e-942e5f0d9118" />
-<img width="587" height="745" alt="Screenshot 2025-08-30 151927" src="https://github.com/user-attachments/assets/91952c03-1161-4cb0-85bf-414a5730cad6" />
-<img width="580" height="742" alt="Screenshot 2025-08-30 151933" src="https://github.com/user-attachments/assets/fea1b373-b069-4096-ae13-93cb2f59581b" />
-<img width="573" height="748" alt="Screenshot 2025-08-30 151941" src="https://github.com/user-attachments/assets/1591eb21-aa2f-4898-875d-61191e51c876" />
-<img width="578" height="737" alt="Screenshot 2025-08-30 151947" src="https://github.com/user-attachments/assets/f2e6057b-42a6-473f-8a4c-0239eae27841" />
-<img width="581" height="750" alt="Screenshot 2025-08-30 151954" src="https://github.com/user-attachments/assets/a05d0440-4b91-416a-9023-51af55a9292e" />
-<img width="561" height="779" alt="Screenshot 2025-08-30 151959" src="https://github.com/user-attachments/assets/09dc418f-adbd-4503-a2f4-2e8069dfbebb" />
-
-
+<img width="708" height="908" alt="Screenshot 2025-08-30 214158" src="https://github.com/user-attachments/assets/1ac5378e-469c-4429-b139-c13ce1f3488e" />
+<img width="708" height="904" alt="Screenshot 2025-08-30 214212" src="https://github.com/user-attachments/assets/1b21e09f-f032-42e9-96e1-4bea1bf3521a" />
+<img width="700" height="905" alt="Screenshot 2025-08-30 214310" src="https://github.com/user-attachments/assets/de106a81-c76a-4763-a37f-af677116f31d" />
+<img width="703" height="907" alt="Screenshot 2025-08-30 214358" src="https://github.com/user-attachments/assets/aec43a4f-a5f4-490b-a3a4-53d8e1a44924" />
+<img width="708" height="908" alt="Screenshot 2025-08-30 214414" src="https://github.com/user-attachments/assets/cfa4d37e-61c0-49a1-bd0f-614b9b7fb45b" />
+<img width="705" height="907" alt="Screenshot 2025-08-30 214429" src="https://github.com/user-attachments/assets/c1297358-49c2-409a-a55c-873c239ad443" />
+<img width="697" height="893" alt="Screenshot 2025-08-30 214445" src="https://github.com/user-attachments/assets/cc2357e0-7f33-42e7-b6e0-662740bca279" />
+<img width="690" height="894" alt="Screenshot 2025-08-30 214528" src="https://github.com/user-attachments/assets/9a75194d-d540-4f78-8ceb-40803692731a" />
+<img width="688" height="885" alt="Screenshot 2025-08-30 214543" src="https://github.com/user-attachments/assets/214b85af-385a-4063-91df-107f80eb3c85" />
+<img width="696" height="907" alt="Screenshot 2025-08-30 214557" src="https://github.com/user-attachments/assets/9f21275e-8922-43ba-a883-3c7627dc0496" />
+<img width="686" height="893" alt="Screenshot 2025-08-30 214610" src="https://github.com/user-attachments/assets/159c861e-ff3c-4f41-ae5a-c08917877851" />
+<img width="682" height="886" alt="Screenshot 2025-08-30 214622" src="https://github.com/user-attachments/assets/1c2f9661-3a9d-44d0-bc74-61655a29e890" />
+<img width="623" height="900" alt="Screenshot 2025-08-30 214636" src="https://github.com/user-attachments/assets/11a229d5-236c-47d3-be35-1871991fc463" />
 
 
 ## Result
